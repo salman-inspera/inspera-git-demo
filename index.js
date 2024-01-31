@@ -1,5 +1,5 @@
 function print() {
-    console.log('2+3 is', 51);
+    console.log('100+3 is', 103);
 };
 
 print();
